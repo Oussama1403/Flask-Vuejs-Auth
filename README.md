@@ -92,7 +92,7 @@ The project is organized into two main folders:
    npm run dev
    ```
 
-   The frontend will be available at `http://localhost:8080`.
+   The frontend will be available at `http://localhost:5173/`.
 
 ### Database Setup
 - **The MongoDB service** is started upon successful installation, By default, MongoDB will run on mongodb://localhost:27017.
