@@ -2,12 +2,11 @@
 Flask-Vue.js Authentication App
 </h1>
 
-<div style="display: flex;justify-content: center;
-  align-items: center; gap: 10px;">
-      <img src="Logos/vuejs-icon.svg" alt="Vuejs" style="width: 20%;"/>
-      <img src="Logos/flask-icon.svg" alt="Flask" style="width: 20%;"/>
-      <img src="Logos/mongodb-icon.svg" alt="Mongodb" style="width: 20%;"/>
-</div>
+<p align="center">
+  <img src="Logos/vuejs-icon.svg" alt="Vue.js Logo" style="width: 20%;"/>
+  <img src="Logos/flask-icon.svg" alt="Flask Logo" style="width: 20%;"/>
+  <img src="Logos/mongodb-icon.svg" alt="MongoDB Logo" style="width: 20%;"/>
+</p>
 
 This project demonstrates a simple user authentication system using Flask as the backend and Vue.js as the frontend. It provides a basic template for setting up a Flask API with JWT-based authentication and a Vue.js Single Page Application (SPA) that interacts with the API.
 
